@@ -1,4 +1,4 @@
-## Repository name
+d## Repository name
 Your repostiory should be named something like `async-final-project-color-name`
 Example: `async-final-project-teal-Anas`
 
@@ -23,7 +23,7 @@ NBA Draft Basketball Player Data 1989-2021 (https://www.kaggle.com/datasets/matt
   - Visualization: ![Q1 Visualization](IMG1.png)
 
 - [ ] Question 2: [Which colleges produced the most lottery (top-14) picks between 1989–2021?]
-  - Answer: [This graoh ranks the top college basketball programs based on how many of their players were selected as lottery picks in the NBA Draft between 1989 and 2021. Duke has the most, producing nearly 30 lottery picks, which far exceeds every other school. Other elite programs like Kentucky, North Carolina, and Arizona follow, but they all trail significantly behind Duke. Thus, this graph highlights Duke's prolonged dominance and success in developing top-tier NBA talent. ]
+  - Answer: [This graph ranks the top college basketball programs based on how many of their players were selected as lottery picks in the NBA Draft between 1989 and 2021. Duke has the most, producing nearly 30 lottery picks, which far exceeds every other school. Other elite programs like Kentucky, North Carolina, and Arizona follow, but they all trail significantly behind Duke. Thus, this graph highlights Duke's prolonged dominance and success in developing top-tier NBA talent. ]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
 - [ ] Question 3: [Which NBA teams had draft picks whose players accumulated the most total career minutes between 1999–2020 ]
