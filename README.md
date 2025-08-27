@@ -19,8 +19,8 @@ NBA Draft Basketball Player Data 1989-2021 (https://www.kaggle.com/datasets/matt
 
 ## Questions
 - [ ] Question 1: [Which top 5 NBA teams landed the most #1 picks between 1989-2021]
-  - Answer: [The top 5 NBA teams that landed the most #1 picks are Atlanta Hawks, Boston Celtics, Chicago Bulls , Minnesota Timberwolves, and Philadelphia 76ers as listed by the 5 different colors.]
-  - Visualization: ![Q1 Visualization](IMG1.png)
+  - Answer: [The top 5 NBA teams that landed the most #1 picks are Atlanta Hawks, Boston Celtics, Chicago Bulls, Minnesota Timberwolves, and Philadelphia 76ers as listed by the 5 different colors.]
+  - Visualization: ![Q1 Visualization](IMG1.png) 
 
 - [ ] Question 2: [Which colleges produced the most lottery (top-14) picks between 1989–2021?]
   - Answer: [The top colleges that producted the most lottery picks between 1989-2021 are Duke, Kentcuky, UNC, Arizona, Kansas, Uconn, Michigan, Texas, UCLA, UNLV, Syracuse, Michigan State, Indiana, Georgetown, and Georgia Tech. ]
