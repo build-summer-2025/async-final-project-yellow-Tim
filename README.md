@@ -24,7 +24,8 @@ NBA Draft Basketball Player Data 1989-2021 (https://www.kaggle.com/datasets/matt
 
 - [ ] Question 2: [Which colleges produced the most lottery (top-14) picks between 1989–2021?]
   - Answer: [This graph ranks the top college basketball programs based on how many of their players were selected as lottery picks in the NBA Draft between 1989 and 2021. Duke has the most, producing nearly 30 lottery picks, which far exceeds every other school. Other elite programs like Kentucky, North Carolina, and Arizona follow, but they all trail significantly behind Duke. Thus, this graph highlights Duke's prolonged dominance and success in developing top-tier NBA talent. ]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+  - Visualization: ![Q2 Visualization](<img width="1450" height="1088" alt="image" src="https://github.com/user-attachments/assets/9b737653-c0e5-4efc-ad95-f21e4b467192" />
+)
 
 - [ ] Question 3: [Which NBA teams had draft picks whose players accumulated the most total career minutes between 1999–2020 ]
   - Answer: [This graph shows which five NBA teams drafted players who ended up playing the most total minutes from 1999 to 2020. It counts all the minutes those players logged for any team in their career, not just the one that drafted them. From the graph, we can see that the Chicago Bulls are in first place, with their draft picks playing just over 42,000 total minutes. The Atlanta Hawks, Philadelphia 76ers, Cleveland Cavaliers, and Utah Jazz trail behind them, with very similar numbers. Thus, these teams were the best at picking players who would go on to have long and useful careers in the NBA.]
