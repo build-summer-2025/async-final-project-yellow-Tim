@@ -24,7 +24,7 @@ NBA Draft Basketball Player Data 1989-2021 (https://www.kaggle.com/datasets/matt
  
 
 - [ ] Question 2: [Which colleges produced the most lottery (top-14) picks between 1989–2021?]
-  - Answer: [The top colleges that producted the most lottery picks between 1989-2021 are Duke, Kentcuky, UNC, Arizona, Kansas, Uconn, Michigan, Texas, UCLA, UNLV, Syracuse, Michigan State, Indiana, Georgetown, and Georgia Tech. ]
+  - Answer: [The top colleges that producted the most lottery picks between 1989-2021 are Duke, Kentcuky, UNC, Arizona, Kansas, Uconn, Michigan, Texas, UCLA, UNLV, Syracuse, Michigan State, Indiana, Georgetown, and Georgia Tech. We can see that Duke has the largest lottery picks with a around 28-29. We can see this as we go from top to bottom of the bar graph]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
 - [ ] Question 3: [Which NBA teams had draft picks whose players accumulated the most total career minutes between 1999–2020 ]
