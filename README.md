@@ -60,7 +60,8 @@ NBA Draft Basketball Player Data 1989-2021 (https://www.kaggle.com/datasets/matt
 
 - [ ] Question 9: [Which top 5 NBA teams drafted players with the highest total win shares between 1999–2020?]
   - Answer: [From 1989 to 2005,the Golden State Warriors, Cleveland Cavaliers, Milwaukee Bucks, Seattle SuperSonics, and Orlando Magic drafted the most productive players, as measured by their total career win shares.]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+  - Visualization: <img width="1750" height="1104" alt="image" src="https://github.com/user-attachments/assets/e576df4e-f710-4fc4-be5c-7e94bc254357" />
+
 
 - [ ] Question 10: [Which NBA team drafted players with the lowest box_plus_minus?]
   - Answer: [This graph shows the five worst NBA teams at drafting valuable players between 1999 and 2020, ranked by the lowest average Box Plus/Minus. BPM measures a player’s overall impact per 100 possessions compared to a league-average player. A negative BPM means a player performs below average. These teams—New Orleans Pelicans (NOP), New Jersey Nets (NJN), Dallas Mavericks (DAL), Miami Heat (MIA), and New Orleans/Oklahoma City Hornets (NOK) have consistently drafted players who on average, contributed negatively on the court. This suggests long-term struggles in scouting, development, or simply bad luck in selecting players who failed to become even average NBA contributors.]
